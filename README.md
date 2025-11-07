@@ -9,7 +9,7 @@ Bu repo içerisinde, her takım üyesinin **kendi bireysel projeleri**, geçmiş
 ## 👥 Takım Üyeleri (GucoK-Studio)
 - **Abdülkadir Güç** – Game Developer, Networking Systems, Unity  
 - **Halil İbrahim Güç** – Game Developer  
-- **Muhammed Emir Koçoğlu** – Game Developer, Game Designer
+- **Muhammet Emir Koçoğlu** – Game Developer, Game Designer
 
 > Bu portföy deposunda her üye kendi bireysel oyunlarını ve geliştirme çalışmalarını paylaşmaktadır.  
 > Oyunlar ortak geliştirilmiş projeler değil, **kişisel portföy içerikleridir**.
