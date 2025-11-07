@@ -1,8 +1,8 @@
 # ⏳ Zaman Tamircisi  
 **Tür:** Visual Novel + Platformer  
 **Geliştirme Türü:** Episodik Hikâye + Puzzle Mini Oyunları  
-**Geliştirildiği Program:** Oyun ve Uygulama Akademisi Mezuniyet Bootcamp  
-**Platform:** PC / WebGL  
+**Geliştirildiği Program:** Oyun ve Uygulama Akademisi GameJam - Grup 63
+**Platform:** PC  
 **Unity Version:** 6000.0.41f1
 
 **Ekip:**
