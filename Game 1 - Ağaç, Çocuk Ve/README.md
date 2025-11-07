@@ -3,6 +3,7 @@
 **Oluşturulduğu Etkinlik:** MağraJam #3
 **Geliştirme Süresi:** 48 Saat
 **Platform:** PC
+**Unity Version:** 2020.3.7f1
 
 **Ekip:**
 Abdülkadir Güç - Oyun Geliştiricisi
@@ -69,4 +70,28 @@ Bu iki farklı son, oyuncuya hem ahlaki bir ikilem hem de karakterin kendi kimli
 ---
 
 ## 📸 Ekran Görüntüleri  
+
 `screenshots/` klasöründe yer almaktadır.
+
+---
+
+## Itchio Sayfası
+
+https://abdulguc1.itch.io/agac-cocuk-ve
+
+---
+
+## Kullanılan Görsel ve Müzikler:
+
+https://www.pinterest.com.au/pin/168392473553841842/?d=t&mt=login
+
+https://in.pinterest.com/pin/641622278131683987/
+
+https://www.wallpaperup.com/30280/Lin_Wenjun_fantasy_dark_warrior_knight_battle_...
+
+Forest Walk by Alexander Nakarada | https://www.serpentsoundstudios.com
+Music promoted by https://www.chosic.com/
+Attribution 4.0 International (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/ 
+
+---
