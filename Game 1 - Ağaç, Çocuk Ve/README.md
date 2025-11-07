@@ -24,6 +24,18 @@ Oyuncunun yaptığı birden fazla kritik seçim, hikâyenin tamamen farklı bir 
 
 ## 🌿 Hikayenin Teması 
 
+Ağaç, Çocuk Ve…, kökleri mitolojiye uzanan bir “köken arayışı” ve “aidiyet” hikâyesidir.
+Oyunun başında çocuk, tıpkı Naruto’daki orman ruhları ya da kadim bir kraliyet ailesi tarafından yetiştirilmiş özel bir varlık gibi doğanın kalbinde büyür. Ancak evrenin başka bir köşesinde ortaya çıkan büyük bir tehdit sonucunda, çocuğun yetiştiği gezegen yok olur ve ailesi onu Superman vari bir şekilde başka bir gezegene göndererek hayatta kalmasını sağlar.
+
+Hikâye boyunca oyuncu, çocuğun geçmişine dair ipuçlarına ulaşır ve yaptığı seçimlerle iki farklı sona yönelir:
+
+İyi Sonda:
+Çocuk, aile kökenini keşfeder; gezegeninin barışçıl, güzel ve doğayla uyumlu bir yer olduğunu anlar. Onu “göndermelerinin” sevgi ve koruma amaçlı olduğunu öğrenir.
+
+Kötü Sonda:
+Oyuncu, çocuğun ağabeyinin aslında gezegenini yok eden saldırıyı galaksiyi korumak için gerçekleştirdiğini keşfeder. Bu güçlü finalde, çocuğun geldiği gezegenin aslında emperyalist bir uygarlık olduğu ve ağabeyinin tüm galaksiyi korumak adına bu kararı verdiği ortaya çıkar.
+
+Bu iki farklı son, oyuncuya hem ahlaki bir ikilem hem de karakterin kendi kimliğini yeniden tanımlama fırsatı sunar.
 
 ---
 
