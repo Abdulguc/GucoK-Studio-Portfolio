@@ -1,0 +1,60 @@
+# 🌲 Ağaç, Çocuk VE…
+**Tür:** Visual Novel 
+**Oluşturulduğu Etkinlik:** MağraJam #3
+**Geliştirme Süresi:** 48 Saat
+**Platform:** PC
+
+**Ekip:**
+Abdülkadir Güç - Oyun Geliştiricisi
+Halil İbrahim Güç - Hikaye Tasarımcısı
+
+---
+
+## 🎮 Oyun Hakkında 
+
+**Ağaç, Çocuk VE…**, oyuncunun verdiği kararlarla hikâyenin akışını değiştirdiği kısa bir **etkileşimli hikâye / visual novel** oyunudur.  
+Oyun boyunca karakterler arası diyaloglar, çevresel anlatım ve seçim mekanikleri aracılığıyla oyuncuya iki farklı son sunulur:
+
+- ✅ **İyi Son**  
+- ❌ **Kötü Son**
+
+Oyuncunun yaptığı birden fazla kritik seçim, hikâyenin tamamen farklı bir yöne evrilmesine neden olur.
+
+---
+
+## 🌿 Hikayenin Teması 
+
+
+---
+
+## 🕹️ Oynanış
+
+- Diyaloglar arasında ilerle  
+- Kritik noktalarda seçim yap  
+- Seçimlerin hikâyenin sonunu belirlesin  
+- Tek oturuşta tamamlanabilir (5–7 dakika)
+
+---
+
+## ✅ **Öne Çıkan Mekanikler**
+- **Seçimlere bağlı dallanan hikâye**  
+- **İki farklı son (iyi / kötü)**  
+- Basit ve temiz UI  
+- Hafif geçiş animasyonları  
+- Hikâye odaklı atmosfer
+
+---
+
+## 👤 **Projede Yapılan İşler**
+
+- Visual novel akışının **tamamı kodlandı**  
+- **Seçim sistemi (branching system)** tasarlandı  
+- İyi ve kötü sonu tetikleyen **karar puanı (decision flag) mekanizması** geliştirildi  
+- Sahne geçişleri, UI akışları ve diyalog ilerleyiş sistemleri oluşturuldu  
+- Metin kutuları, butonlar, seçim ekranları gibi **UI elemanları entegre edildi**  
+- Hikâye içindeki dallanma noktaları ekiple birlikte kurgulandı
+
+---
+
+## 📸 Ekran Görüntüleri  
+`screenshots/` klasöründe yer almaktadır.
